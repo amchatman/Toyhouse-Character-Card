@@ -1,0 +1,173 @@
+<div class="container-fluid" style="margin-top:60px auto; width:900px",>
+    <!-- Name Plate starts here -->
+    <div style="width:450px; margin:40px auto">
+        <img src="#">
+        <h1>Chracter Name</h1>
+        <h2>Occupation Job</h2>
+        
+    </div>
+    <!--Basic Info Starts  Here-->
+    <div style="background-color:#7798D9; width:750px; color:#FFFFFF; padding-left:20px;padding-top:5px; padding-bottom:1px">
+      <h3>Basic Info</h3>
+    </div>
+    
+    
+        <!--Bssic Section Left Section Starts Here-->
+    <div class="row" style="margin-left:5px; margin-top:20px;">
+            <div class="col-sm-6">
+        <div style="margin-bottom:15px;">
+            <span style="background-color:#4F4D8C; color:#FFFFFF; padding:2px; border:1px solid #4F4D8C; border-radius:2px;">Name</span>
+            <pan>Content</pan>
+        </div>
+        
+         <div style="margin-bottom:15px;">
+            <span style="background-color:#4F4D8C; color:#FFFFFF; padding:2px; border:1px solid #4F4D8C; border-radius:2px;">Gender</span>
+            <span>Content</span>
+        </div>
+        
+        <div style="margin-bottom:15px;" >
+            <span style="background-color:#4F4D8C; color:#FFFFFF; padding:2px; border:1px solid #4F4D8C; border-radius:2px;" >Species</span>
+            <span>Content</span>
+        </div>
+        
+         <div style="margin-bottom:15px;">
+            <span style="background-color:#4F4D8C; color:#FFFFFF; padding:2px; border:1px solid #4F4D8C; border-radius:2px;">Birthday</span>
+            <span>Content</span>
+            </div>
+        </div>
+        
+        
+           <!--Basic Section Right Section Starts Here-->
+        
+        
+        
+      <div>
+        <div style="margin-bottom:15px;" >
+            <span style="background-color:#4F4D8C; color:#FFFFFF; padding:2px; border:1px solid #4F4D8C; border-radius:2px;">Alias</span>
+            <span>Content</span>
+            
+        </div>
+        
+          <div style="margin-bottom:15px;">
+            <span style="background-color:#4F4D8C; color:#FFFFFF; padding:2px; border:1px solid #4F4D8C; border-radius:2px;">Pronouns</span>
+            <span>Content</span>
+            
+        </div>
+        
+          <div style="margin-bottom:15px;" >
+            <span style="background-color:#4F4D8C; color:#FFFFFF; padding:2px; border:1px solid #4F4D8C; border-radius:2px;">Height</span>
+            <span>Content</span>
+            
+        </div>
+        
+          <div style="margin-bottom:15px;">
+            <span style="background-color:#4F4D8C; color:#FFFFFF; padding:2px; border:1px solid #4F4D8C; border-radius:2px;">Sign</span>
+            <span>Content</span>
+            
+        </div>
+        </div>
+    </div>
+    
+    
+    
+       <!--About Section Starts Here-->
+    
+    
+    <div style="background-color:#7798D9; width:750px; color:#FFFFFF; padding-left:20px;padding-top:5px; padding-bottom:1px">
+        <h3>About</h3>
+    </div>
+    <div style="background-color:rgba(119, 152, 217, 0.4); width:750px; border-radius:2px">
+          <h3 style="padding:10px;">Story</h3>
+          <p style="padding:10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          
+            <p style="padding:10px">Ut venenatis tellus in metus vulputate eu scelerisque. Elementum integer enim neque volutpat ac tincidunt. Proin sed libero enim sed faucibus. Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Lorem dolor sed viverra ipsum nunc aliquet bibendum. Odio euismod lacinia at quis risus sed vulputate. Congue nisi vitae suscipit tellus mauris. Justo donec enim diam vulputate ut pharetra sit. Quis auctor elit sed vulputate mi sit amet. Mattis rhoncus urna neque viverra justo nec ultrices dui. Malesuada proin libero nunc consequat interdum.</p>
+          <h3 style="padding:10px;" >Personality</h3>
+          <p style="padding:10px;">
+             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+          </p>
+        </div>
+    
+    
+    <!--Traits,Likes, & Dislikes start here -->
+    
+    <div  style="background-color:#7798D9; width:750px; color:#FFFFFF; padding-left:20px;padding-top:5px; padding-bottom:1px">
+        <h3>Traits,Likes & Dislikes</h3>
+    </div>
+    
+    <div class="row">
+        <div class="col-sm-3">
+            <ul style="list-style:none">
+               <h3>Traits</h3>
+               <li>Content</li> 
+               <li>Content</li>
+               <li>Content</li>
+               <li>Content</li>
+            </ul>
+        </div>
+        
+        <div class="col-sm-3" >
+           
+            <ul style="list-style:none">
+                <h3>Likes</h3>
+               <li>Content</li> 
+               <li>Content</li>
+               <li>Content</li>
+               <li>Content</li>
+            </ul>
+        </div>
+        <div class="col-sm-3">
+          
+            <ul style="list-style:none" >
+               <h3>Dislikes</h3>
+               <li>Content</li> 
+               <li>Content</li>
+               <li>Content</li>
+               <li>Content</li>
+            </ul>
+        </div>
+        </div>
+        
+        
+        
+        <!---Relationships Start Here-->
+        
+    <div style="background-color:#7798D9; width:750px; color:#FFFFFF; padding-left:20px;padding-top:5px; padding-bottom:1px">
+        <h3>Relationships</h3>
+    </div>
+       <div style="width:750px;background-color:rgba(119, 152, 217, 0.4);margin-top:20px; margin-bottom:20px; border-radius:10px>
+           <img src="#" style="float:left">
+            <h5><a href="#">Character Name</a></h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
+            </p>
+        </div>
+    <div style="width:750px;background-color:rgba(119, 152, 217, 0.4);margin-top:20px; margin-bottom:20px; border-radius:10px">
+           <img src="#" style="float:left">
+            <h5><a href="#">Character Name</a></h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
+            </p>
+        </div>
+    
+    <div style="width:750px;background-color:rgba(119, 152, 217, 0.4);margin-top:20px; margin-bottom:20px; border-radius:10px">
+           <img src="#" style="float:left">
+            <h5><a href="#">Character Name</a></h5>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
+            </p>
+        </div>
+    
+    
+    <!--Triva Start Here-->
+    <div style="background-color:#7798D9; width:750px; color:#FFFFFF; padding-left:20px;padding-top:5px; padding-bottom:1px">
+        <h3>Trivia</h3>
+    </div>
+    <div style="background-color:rgba(119, 152, 217, 0.4); width:750px; border-radius:2px">
+        <ul>
+            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            </li>
+              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              </li>
+                <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </li>
+        </ul>
+    </div>
+    
+</div>
