@@ -157,20 +157,20 @@ Mess up need to redownload find it here....
        <div style="width:750px;background-color:rgba(119, 152, 217, 0.4);margin-top:20px; margin-bottom:20px; border-radius:10px;">
            <img src="#" style="float:left; border-raius:50%;">
             <h5><a href="#">Character Name</a></h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
+            <p style="padding:15px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
             </p>
         </div>
     <div style="width:750px;background-color:rgba(119, 152, 217, 0.4);margin-top:20px; margin-bottom:20px; border-radius:10px">
            <img src="#" style="float:left; border-radius:50%;">
             <h5><a href="#">Character Name</a></h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
+            <p style="padding:15px;" >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
             </p>
         </div>
     
     <div style="width:750px;background-color:rgba(119, 152, 217, 0.4);margin-top:20px; margin-bottom:20px; border-radius:10px">
            <img src="#" style="float:left; border-radius:50%;">
             <h5><a href="#">Character Name</a></h5>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
+            <p style="padding:15px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet tellus cras adipiscing enim eu. Lectus sit amet est placerat. Mi sit amet mauris commodo.
             </p>
         </div>
     
